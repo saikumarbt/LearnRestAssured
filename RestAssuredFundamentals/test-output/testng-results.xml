@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1663" started-at="2019-08-05T13:52:51Z" finished-at="2019-08-05T13:52:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1663" started-at="2019-08-05T13:52:51Z" finished-at="2019-08-05T13:52:52Z">
+      <class name="com.suntaragali.tests.AuthenticationTests">
+        <test-method status="PASS" signature="basicChallengedAuthTest()[pri:0, instance:com.suntaragali.tests.AuthenticationTests@3e6fa38a]" name="basicChallengedAuthTest" duration-ms="1418" started-at="2019-08-05T13:52:51Z" finished-at="2019-08-05T13:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicChallengedAuthTest -->
+        <test-method status="PASS" signature="basicPreemptiveAuthTest()[pri:0, instance:com.suntaragali.tests.AuthenticationTests@3e6fa38a]" name="basicPreemptiveAuthTest" duration-ms="34" started-at="2019-08-05T13:52:52Z" finished-at="2019-08-05T13:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicPreemptiveAuthTest -->
+        <test-method status="PASS" signature="oauth1Test()[pri:0, instance:com.suntaragali.tests.AuthenticationTests@3e6fa38a]" name="oauth1Test" duration-ms="150" started-at="2019-08-05T13:52:52Z" finished-at="2019-08-05T13:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oauth1Test -->
+        <test-method status="PASS" signature="oauth2Test()[pri:0, instance:com.suntaragali.tests.AuthenticationTests@3e6fa38a]" name="oauth2Test" duration-ms="30" started-at="2019-08-05T13:52:52Z" finished-at="2019-08-05T13:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oauth2Test -->
+      </class> <!-- com.suntaragali.tests.AuthenticationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
