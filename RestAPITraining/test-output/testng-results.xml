@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1709" started-at="2019-07-12T10:40:28Z" finished-at="2019-07-12T10:40:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1709" started-at="2019-07-12T10:40:28Z" finished-at="2019-07-12T10:40:30Z">
+      <class name="com.suntaragali.restapi.ResponseTime">
+        <test-method status="PASS" signature="testResponseTime()[pri:0, instance:com.suntaragali.restapi.ResponseTime@59f99ea]" name="testResponseTime" duration-ms="1696" started-at="2019-07-12T10:40:28Z" finished-at="2019-07-12T10:40:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseTime -->
+      </class> <!-- com.suntaragali.restapi.ResponseTime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
